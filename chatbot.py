@@ -128,7 +128,7 @@ def initialize_chatbot():
             with st.spinner("🤖 Initializing AI model..."):
                 try:
                     llm = ChatGoogleGenerativeAI(
-                        model="gemini-1.5-flash", 
+                        model="gemini-2.5-pro", 
                         temperature=0.3, 
                         max_tokens=1000,
                         google_api_key=api_key
