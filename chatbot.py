@@ -145,7 +145,7 @@ def initialize_chatbot():
             Provide detailed, accurate information about iPad models, specifications, release dates, and features.
             Use clear, concise language and cite specific information when possible.
             Do not provide negative statements after a consice answer like doesn't have, doesn't support, etc.
-            Provide source in the form of link at the end.
+            ***Provide source in the form of link at the end.***
             
             When answering questions about specific iPad models, use the structured information provided:
             - iPad Pro (M4): Latest model with M4 chip, Ultra Retina XDR display, price 99,990 INR
