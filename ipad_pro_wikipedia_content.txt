@@ -1,0 +1,430 @@
+
+
+================================================================================# IPad Pro
+
+URL: https://en.wikipedia.org/wiki/IPad_Pro
+Last Updated: 2025-08-24 13:10:19
+
+The iPad Pro is a series of tablet computers, positioned as the premium line of Apple's iPad brand. It runs iPadOS, a tablet-optimized fork of the iOS operating system. Early models were distinguished from other iPads by their ability to use the Apple Pencil stylus and their larger screen size. As other iPads have gained these features over time, the latest 7th generation iPad Pro is notable among other features for its powerful processor (the M4) and being the thinnest Apple product ever released.
+The original iPad Pro was introduced in September 2015, and ran iOS 9. It had an A9X chip, and came in two sizes: 9.7-inch and 12.9 inch; the 9.7 inch coming out in March 2016. The second-generation iPad Pro was unveiled during the June 2017 WWDC event. It came with an upgraded A10X Fusion processor and superseded the 9.7-inch model with a 10.5-inch model. The third-generation iPad Pro was announced in October 2018 with a new all screen design. As a part of the redesign, the home button was removed in favor of Face ID. It came in 11-inch and 12.9-inch models, the same screen sizes used by every subsequent model to date.
+The fourth-generation iPad Pro, introduced in March 2020, included the A12Z chip, and was introduced alongside the Magic Keyboard for iPad. The fifth-generation iPad Pro, announced in April 2021 incorporated Apple’s desktop-class M1 processor, making it the first iPad model to not use an A-series processor. The sixth-generation iPad Pro was introduced in October 2022 alongside the 10th-generation iPad. It includes the M2 processor, Apple Pencil Hover, and ProRes video. The seventh-generation iPad Pro and current-generation iPad Pro was introduced in May 2024 alongside the 6th-generation iPad Air, launching with the M4 processor, Apple Pencil Pro, a new Magic Keyboard with function keys and is the first iPad with an OLED display.
+
+
+== History ==
+
+
+=== First generation ===
+
+The first generation of iPad Pro came in two sizes: 12.9-inch and 9.7-inch. The 12.9-inch version was announced on September 9, 2015 and released on November 11, 2015. It was larger than all previous iPad models, and was the first iPad to feature LPDDR4 RAM. It originally shipped with iOS 9.1. The 9.7-inch iPad Pro was announced on March 21, 2016, and released ten days later. It was based on the form factor of the iPad Air 2 and originally shipped with iOS 9.3.
+
+
+=== Second generation ===
+
+On June 5, 2017, the second generation iPad Pro was announced, which features A10X Fusion processors, with storage options of 64 GB, 256 GB, and 512 GB. Upgraded displays include a 10.5-inch version to replace the 9.7-inch model, while the 12.9-inch version was refreshed. Both sizes employed refresh rates up to 120 Hz, better HDR and TrueTone white balancing. Following this announcement, both models of the first-generation iPad Pro were discontinued. The two 2nd generation models were the last iPad Pro models with Home Button and a USB-lightning connector.
+
+
+=== Third generation ===
+
+The third generation of iPad Pro was announced on October 30, 2018, and was made available in two screen sizes: 11-inch (28 cm) and 12.9-inch (33 cm). They feature full-screen displays, with the 11-inch model replacing the 10.5-inch model of the previous generation. They also feature up to 1 TB of storage and Face ID using a sensor array on the top bezel which, unlike iPhone models featuring Face ID, can unlock the iPad in any orientation. The home button was completely removed in favor of a larger display and uniform bezel sizes on all sides. These were also the first iPads to come with a USB-C connector. It was launched with a Smart Keyboard Folio (sold separately), but also supports the Magic Keyboard with a trackpad launched in early 2020.
+
+
+=== Fourth generation ===
+
+The fourth generation of iPad Pro was announced on March 18, 2020, with the same screen sizes of the previous generation. It offers a redesigned camera module, an Apple A12Z processor, 128 GB minimum storage, LiDAR Scanner, and support for the Magic Keyboard case.
+
+
+=== Fifth generation ===
+
+The fifth generation of iPad Pro was announced on April 20, 2021, with the same design and screen sizes as the previous generation. It includes the Apple M1 processor, 5G connectivity, Thunderbolt 3/USB 4 connectivity (up to 40 Gbit/s), external display output up to 6K resolution, 8 or 16 GB of RAM, and on the 12.9" variant, a mini-LED display marketed as the "Liquid Retina XDR" display.
+
+
+=== Sixth generation ===
+The sixth generation iPad Pro was announced on October 18, 2022, along with the iPad (10th generation). They use the same design as the previous generations (since 2018). It includes an Apple M2 processor, Apple Pencil Hover (a feature that allows the display to detect the Apple Pencil hovering up to 12mm above the display), and ProRes Video Recording (limited to 1080p for 128 GB storage and up to 4K for at models with at least 256 GB storage).
+
+
+=== Seventh generation ===
+
+The seventh generation iPad Pro was announced on May 7, 2024, along with the iPad Air (6th generation). This generation features a redesigned chassis that is thinner than the previous generations. It includes the Apple M4 processor, a landscape camera with a Face ID array, and a Tandem OLED display. The display, referred to by Apple as the Ultra Retina XDR display, has a contrast ratio of 2,000,000:1 and can reach a full screen brightness of 1000 nits (SDR content) or 1600 nits (HDR content). Nano-texture display glass is available on models with 1TB and 2TB storage. The base storage was increased to 256 GB, with an option to get up to 2 TB of storage.
+
+
+== Accessories ==
+There are three primary accessories made specifically for iPad Pro, all of which are sold separately: an attachable keyboard, Smart Keyboard; and a form-fitted silicone case that is compatible with the Smart Keyboard. Additionally, with the inclusion of a USB-C connector in the third-generation and newer iPad Pro, it is now possible to connect to other displays and devices, and to charge other devices with the iPad Pro.
+
+
+=== Smart Keyboard and Smart Cover ===
+
+Smart Keyboard docks are specific with iPad Pro using the visible Smart Connector; a magnetic connection with three pins that provides data transfer and power. The keyboard doubles as a kickstand, and is comparable to that of the competing Microsoft Surface Pro. The design of the Smart Keyboard is similar to the design of the Smart Cover accessory.
+
+
+=== Apple Pencil ===
+
+
+==== First generation ====
+The first-generation Apple Pencil is a precision stylus exclusive to the iPad Pro, iPad (2018), iPad (2019), iPad Air (2019) and iPad Mini (5th generation). The accessory is rechargeable via the Lightning port on iPad itself on the pre USB-C models. iPad Pro introduces a new display with increased responsiveness and precision over previous iPad displays with Apple Pencil support added. During the launch announcement, Apple demonstrated drawing, managing publication layout, and document annotation.
+
+
+==== Second generation ====
+
+On October 30, 2018, Apple announced an updated Pencil alongside the third generation iPad Pro. The second-generation Apple Pencil functions exclusively with the 2018 and later iPad Pro models, the iPad Air 4, and the iPad mini 6. It is similar in design and specifications to the first model, but without the detachable connector, and part of the stylus is flattened to inhibit rolling. It contains tap-sensitive zones on its sides that can be mapped to functions within apps. Custom laser engraving is available when purchased via the Apple Store online.
+
+
+=== USB-C accessories ===
+Apple created various adapters to pair with the 2018 iPad Pro models, which are the first iPad models to come with a USB-C connector replacing the proprietary Lightning connector. These adapters utilize the new USB-C connector, which allows the iPad to connect with HDMI cables, USB ports, and read SD cards. Using an HDMI cable, users can connect their iPad to another display, such as a computer, laptop, or television. The USB and SD card support allows user to transfer and save files to and from external memory storage devices.
+Third-party developers have taken advantage of the inclusion of USB-C connection in the third-generation iPad Pros to create other adapters, which can include several adapters in one connection. The USB-C port allows the iPad Pro to integrate with various USB-C accessories, ranging from USB-C docking stations, USB-C to USB-A generic adapter with a flash drive, Ethernet, and so on. It can also charge other devices; for instance, a USB-C to Lightning cable to charge a phone or AirPods. An iPad can even be charged with another one with the included USB-C to USB-C cable. There are also USB-C to USB-A adapters, and a USB-C to HDMI adapter to view the iPad display on a television or monitor; wired keyboards and mice also work.
+
+
+=== Magic Keyboard ===
+
+The Magic Keyboard features the first trackpad designed for an iPad, a hinge to adjust the viewing angle and includes a USB-C port for pass-through charging. The Magic Keyboard is supported by all iPad Pro devices introduced since 2018. Though initially expected to launch in May 2020, orders shipped starting in late April 2020.
+The Magic Keyboard was met with mixed reviews. While providing many features which users wanted, there were some downsides to it. The Magic Keyboard provided a proper typing experience and supplied a good trackpad bundled with excellent build quality. On the downside, the added weight to the iPad Pro for this functionality, a missing function key row and a steep price, made the Magic Keyboard an accessory only for a niche market. With the launch of the 5th generation of iPad Pro in 2021, a white color was also been added to the Apple Store.
+
+
+== Reception ==
+
+
+=== General reviews ===
+Despite Apple advertising the tablets as PC replacements, most reviewers noted that it could not replace a laptop running the Microsoft Windows, macOS, or Linux desktop operating systems with its current operating system.
+
+
+=== First Generation ===
+Scott Stein from CNET praised the faster processor and new accessories available. However, he criticized the cost of both the unit and its accessories, while noting its slightly slower processor with less RAM compared to the larger 12.9-inch model. Matt Swider from TechRadar complimented the easy handling, large 256 GB configuration and True Tone display, but was upset about the high starting price. Gareth Beavis gave a positive review, commending the expansive screen and audio quality but stated that the battery life could be made longer.
+The iPad Pro's 9.7-inch version set a record among all currently released tablets tested in color accuracy, screen reflectance, peak brightness, contrast rating in high ambient light, and smallest color variation. However, the iPad Pro 12.9-inch version tested to having better contrast ratio in the dark.
+
+
+=== Second Generation ===
+Max Parker from TrustedReviews and Gareth Beavis from TechRadar both praised the 10.5-inch model's high-quality audio and performance, though both critics noted that it was expensive.
+Reviewing the 12.9 inch second-generation iPad Pro, Lauren Goode of The Verge complimented the quality camera, A10X processor and large screen size, but argued that the device could have been cheaper.
+
+
+=== Third Generation ===
+The third generation iPad Pro models were praised for their better displays, slimmed bezels, the addition of Face ID and general speed as well as CPU improvements. Ben Sin from Forbes noted that despite the LCD screen, the 120 Hz refresh rate makes it feel more smooth. The switch to USB-C connectors received mixed reviews; external monitor support and device charging were added at the cost of extra dongles to use older cables and headphones. Some reviewers noted that although the hardware updates are great steps forward, iOS's limitations, including the lack of external storage capabilities, prevents the third generation from competing against computers. iPadOS addresses the lack of external storage on supported iPads by adding support for external storage.
+The body has been criticized for bending and breaking easily. Users on forum boards have reported the iPad bending after a few days of use, or after carrying it around in a backpack. YouTuber Zack Nelson then published a video on his channel JerryRigEverything showing the device cracking and snapping in half after applying just a small amount of pressure with his hands in the center of the device. Users reported devices already bent right out of the box, mostly cellular models. Apple responded to these reports quickly, asserting that this is normal and a non-issue, a response that has been criticized. According to Apple, the bending is a byproduct of its new manufacturing process. Apple has added a support page relating to these issues.
+
+
+=== Fourth Generation ===
+The 2020 model of the iPad Pro was seen as a minor enhancement amongst technical reviewers. The LIDAR sensor which Apple added for increased AR capability was touted as a feature only a handful of customers will use. The new camera setup in the 2020 model was noted for providing good image quality. The addition in RAM and change in storage options were welcomed, but the 2020 model was sometimes seen as "overkill".
+
+
+=== Fifth Generation ===
+The 2021 models had a vast range of reviews feeling that the already powerful processor was made excessively powerful, stating that the processor wasn't being taken advantage of due to iPadOS still being considered too limiting and not having professional apps from macOS. Camera placement has been criticized for video conferencing. The Verge has criticized that they should have had multiuser support like the Mac but they gave positive reviews to the Mini-LED and cameras.
+Despite having 8 and 16 gigabytes of RAM, iPadOS only initially allowed 5 gigabytes for apps, but this was changed in iPadOS 15.
+
+
+== Model comparison ==
+
+
+=== Support ===
+
+
+=== Models ===
+
+
+== Timeline ==
+
+Source: Apple Newsroom Archive.
+
+
+== See also ==
+Pen computing
+Graphics tablet
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+iPad Pro – official site
+
+# IPad Pro (1st generation)
+
+URL: https://en.wikipedia.org/wiki/IPad_Pro_(1st_generation)
+Last Updated: 2025-08-24 13:10:22
+
+The first generation of iPad Pro is a line of iPad, a tablet computer developed and marketed by Apple. The iPad Pro was released in 2015 alongside the Apple Pencil, and was the first iPad to use the Pencil as an input device.
+The iPad Pro was first sold in November 2015 at a screen size of 12.9 inches, larger than all previous iPad models. A smaller 9.7 inch model, based on the form factor of the iPad Air 2, was released in March 2016. The 12.9 inch model was the first iPad to feature LPDDR4 RAM.
+
+
+== Features ==
+The 12.9-inch version of the iPad Pro was announced during an Apple Special Event on September 9, 2015. It was released on November 11, 2015, with silver, gold, and space gray color options. Prices ranged from US$799 to $1,229, based on storage size and cellular connectivity.
+On March 21, 2016, the 9.7-inch version of the iPad Pro was announced at an Apple keynote with an additional rose gold color option. The 9.7-inch version also introduced the ability to choose the base 32 GB model  with a Cellular + WiFi option. Previously, Cellular + WiFi option was only available on 128 GB iPad Pro models. The 9.7-inch model is priced from $599 to $1,129 depending on the configuration. It was released on March 31, 2016.
+The 9.7-inch iPad Pro has a faster CPU and a better camera than the iPad Air 2. It is the first iPad to feature True Tone Flash and Retina Flash, and its 256 GB storage option was the highest for an iPad at the time. Its True Tone display allows the LCD to adapt its color and intensity to ambient lighting.
+Both iPad Pro models include the A9X chip and the Apple M9 motion co-processor. The 9.7-inch model, however, has a slightly underclocked CPU (2.16 GHz compared to 2.26 GHz on the 12.9-inch model) and only 2 GB of RAM. Several features are carried over from the standard iPad, such as Touch ID and the Retina Display. New features include a smart connector for a keyboard and four stereo speakers located in pairs on top and bottom of the device. The 12.9-inch model has a 2732-by-2048 display and the 9.7-inch model has a 2048-by-1536 display. Both displays have a resolution of 264 pixels per inch and feature a variable refresh rate, a first for Apple. The 12.9-inch version is also the first iOS device to include more than 2 GB of RAM.
+A customized 12.9 inch iPad Pro was also designed by Jony Ive and submitted to Phillips's Time for Design auction. The special edition iPad Pro has an "Edition 1 of 1" label engraved on its back and comes with a custom yellow-gold anodized finish, a blue leather Smart Cover and an orange leather Apple Pencil case cover, all of which are not sold by Apple elsewhere. The special edition sold for £50,000.
+
+
+== Software ==
+
+Both iPad Pro (1st generation) models supported iOS 9, 10, 11, 12, iPadOS 13, 14, 15, 16, and do not support iPadOS 17 due to hardware limitations.
+
+
+== Reception ==
+Scott Stein from CNET praised the faster processor and new accessories available. However, he criticized the cost of both the unit and its accessories, while noting its slightly slower processor with less RAM of the 9.7-inch model compared to the larger 12.9-inch model. Matt Swider from TechRadar complimented the easy handling, large 256 GB configuration and True Tone display, but was upset about the high starting price. Gareth Beavis gave a positive review, commending the expansive screen and audio quality but stated that the battery life could be made longer.
+
+
+== Timeline ==
+
+Source: Apple Newsroom Archive.
+
+
+== Gallery ==
+
+
+== See also ==
+Pen computing
+Graphics tablet
+
+
+== References ==
+
+
+== External links ==
+Official website
+
+# IPad Pro (2nd generation)
+
+URL: https://en.wikipedia.org/wiki/IPad_Pro_(2nd_generation)
+Last Updated: 2025-08-24 13:10:24
+
+The second generation of iPad Pro is a line of iPad tablet computers developed and marketed by Apple Inc. The iPads, with 12.9 inch and 10.5 inch screens, were both announced on June 5, 2017. Both models are compatible with the first generation of Apple Pencil. Like the first generation, a larger size and stylus compatibility were a point of difference from the rest of Apple's available iPads.
+Upgrades from the first-generation iPad Pro include the more powerful A10X Fusion chip, storage capacity up to 512 GB and the larger display of the 10.5 inch model (upgraded from a 9.7 inch model) while the 12.9 inch model was refreshed. Following the 2017 announcement, the first-generation models were discontinued.
+The 12.9 inch version was discontinued on October 30, 2018, after the announcement of the 3rd-generation iPad Pro. However, the 10.5 inch version continued in production along with the 11 inch version until March 18, 2019, when the iPad Air (3rd generation) was announced.
+Both second generation iPad Pro models supported eight versions of iOS/iPadOS, being iOS 10 through iPadOS 17. At WWDC 2024, it was announced that they would not support iPadOS 18 despite having superior hardware to some models supporting the new update.
+
+
+== Features ==
+
+The second-generation iPad Pro was announced on June 5, 2017, alongside iOS 11 at WWDC 2017. The two models, the 10.5-inch and 12.9-inch, have an upgraded A10X SoC which features a 6-core CPU with a 12-core GPU, Apple's ProMotion display technology which supports HDR10 and Dolby Vision content (with iOS 11 or later) with a 120 Hz refresh rate and their True Tone display is 50 percent brighter than the earlier models; both sizes also have a 12-megapixel rear-facing camera with quad-LED True-Tone flash and a 7-megapixel front-facing camera with Retina Flash. They have USB 3.0 connection speeds using Lightning cables, with USB-C fast-charge support. The second-generation iPad Pro has storage capacities up to 512 GB. The second-generation iPad Pro is the final model to include a home button with Touch ID, with the third-generation model replacing it with gestures for navigation and Face ID replacing Touch ID for authentication purposes.
+
+
+== Reception ==
+Max Parker from TrustedReviews and Gareth Beavis from TechRadar both praised the 10.5-inch model's high-quality audio and performance, but did note that it was expensive.
+Reviewing the 12.9 inch second-generation iPad Pro, Lauren Goode of The Verge complimented the high quality camera, A10X processor and large screen size, but argued that the device could have been cheaper.
+
+
+== Hardware issues ==
+Reports indicate that the display of the 12.9 inch second-generation iPad Pro has a high propensity of experiencing a "backlight bleed" failure, manifested as brighter halos of light bleeding through one edge of the screen.
+The 2nd generation iPad Pro and The 3rd generation iPad Air models can develop a glowing white spot on the display which is located above the home button. This is a problem caused by the display cable underneath pushing against the back of the display, creating a pressure point.
+
+
+== Timeline ==
+
+Source: Apple Newsroom Archive.
+
+
+== See also ==
+Pen computing
+Graphics tablet
+
+
+== References ==
+
+
+== External links ==
+Official website
+
+# IPad Pro (3rd generation)
+
+URL: https://en.wikipedia.org/wiki/IPad_Pro_(3rd_generation)
+Last Updated: 2025-08-24 13:10:27
+
+The third generation of iPad Pro is a line of tablet computers developed and marketed by Apple Inc. Two models, with a 12.9 inch or 11 inch screen, were both announced on October 30, 2018, and were available to purchase on November 7. This generation of iPad Pro was the first iPad compatible with the new (second generation) Apple Pencil stylus. Like the second generation, a larger size and stylus compatibility were a point of difference from the rest of Apple's available iPads, but the third generation iPad Pro was also the first iPad to use facial recognition (Face ID) to unlock the device.
+Upgrades from the second generation iPad Pro include the more powerful A12X Bionic processor, storage capacity up to 1 terabyte and the larger display of the 11 inch model (upgraded from a 10.5 inch model). The third generation iPad Pro also premiered a new design, with a screen that covers more of the front face, and has rounded corners. The 11 inch model is the first generation of that size, and describes itself as such.
+
+
+== Features ==
+The redesigned iPad Pro was announced on October 30, 2018, during an Apple Special Event at the Howard Gilman Opera House in Brooklyn, New York. The 2018 models feature new edge-to-edge Liquid Retina displays, Face ID, improved 12-megapixel and 7-megapixel cameras, USB-C connector, and Apple A12X Bionic processors. The tablets are offered in 11-inch and 12.9-inch sizes, and are the first iPad models to offer tap-to-wake LCD displays (following the iPhone X), and up to 1 TB of internal storage. The 1 TB models featured more RAM than the smaller storage sizes with an increase to 6 GB, up from 4 GB. These devices are the first iPads to feature a USB Type-C connector, replacing Apple's proprietary Lightning connector, and both devices gained eSIM for the first time (which replaced the proprietary embedded Apple SIM in the previous generation). The third-generation iPad Pro lacked a home button and a headphone jack, a first for the iPad lineup. Additionally, the tablets lack  Touch ID, which has been superseded by Face ID using a sensor array on the top bezel. Unlike iPhone models featuring Face ID until iOS 16, the third-generation iPad Pro can unlock in any orientation. The tablets were released on November 7, 2018, only available in Silver and Space Gray as the Gold and Rose Gold finishes from the previous generation have been removed. The 3rd-generation iPad Pro was the thinnest iPad at 5.9 mm thick, until being surpassed by the 13 inch iPad Pro 7th generation.
+
+
+== Reception ==
+The 2018 iPad Pro models were praised for their improved displays, slimmer bezels, the addition of Face ID and general speed improvements. Ben Sin from Forbes noted that although the screen is still an LCD screen, the 120 Hz refresh rate makes it feel more responsive. The switch to a USB-C connector received a mixed response; easier external monitor support and more universal device charging were added at the cost of extra dongles to use older cables and headphones. Some reviewers noted that although the hardware updates are great steps forward, iOS's limitations, including the lack of external storage capabilities, which was addressed with the iPadOS 13 update,  prevents the iPad Pro from competing against traditional computers. The increased prices across the lineup were also criticized.
+iPadOS addresses the lack of external storage on supported iPads by adding support for external storage.
+The chassis has been criticized for bending and breaking easily. Users on forum boards have reported the iPad bending after a few days of use, such as after carrying it around in a backpack. YouTuber Zack Nelson then published a video on his channel JerryRigEverything showing the device cracking and snapping in half after applying just a small amount of pressure with his hands in the center of the device. Nelson concluded that the "two weakest points [were] right dead center on either side of the iPad Pro, [and] the crack happened at the very poorly placed microphone hole and the new Apple Pencil 2 charging duct". Users reported devices already bent right out of the box, mostly cellular models. Apple responded to these reports quickly, asserting that this is normal and a non-issue, a response which has been criticized by many. According to Apple, the bending is a byproduct of its new manufacturing process and within their tolerances. Apple has added a support page relating to these issues.
+
+
+== Timeline ==
+
+Source: Apple Newsroom Archive.
+
+
+== See also ==
+Pen computing
+Graphics tablet
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Official website
+
+# IPad Pro (4th generation)
+
+URL: https://en.wikipedia.org/wiki/IPad_Pro_(4th_generation)
+Last Updated: 2025-08-24 13:10:29
+
+The fourth-generation iPad Pro is a line of tablet computers developed and marketed by Apple Inc. Two models, with an 11-inch or 12.9 inch screen, were both announced on March 18, 2020, and released on March 25, 2020.
+The iPad Pro features a similar design, and the same screen sizes, as the previous generation, but has an upgraded camera module with LiDAR capabilities and an updated A12Z Bionic processor with one additional GPU core. The 11 inch model is the second generation of that size, and describes itself as such.
+
+
+== Features ==
+
+
+=== Hardware ===
+
+The 2020 model features an Apple A12Z processor, with an octa-core CPU and GPU, support for Wi-Fi 6, and an upgraded camera setup with a 12 MP wide camera, a 10 MP ultra-wide camera, and a lidar scanner for augmented reality. From the 2018 to 2020 models, the RAM was increased from 4 to 6 GB (4-6 GiB) on the 128 GB, 256 GB and 512 GB models. The 4th Generation 1 TB models have the same 6 GB of RAM as the 2018 models. The base storage option was doubled from 64 GB to 128 GB.
+
+
+=== Accessories ===
+A new Magic Keyboard was released on April 22, 2020, which includes a trackpad, backlit keys, USB-C port for pass-through charging, and a cantilever design, allowing the iPad Pro to "float" above the keys. The Magic Keyboard is compatible with the 3rd and 4th generation iPad Pro. Support for trackpads, mice, and pointing devices was announced as a feature of version 13.4 of iPadOS, which was released on March 24, 2020.
+Like its predecessor, this version of iPad Pro supports the Apple Pencil, a variety of cases, and USB-C accessories.
+
+
+== Reception ==
+The 2020 model of the iPad Pro was seen as a minor spec bump amongst tech reviewers. Although the addition in RAM and change in storage options were welcomed, the lidar sensor that Apple added for increased AR capability was touted as a feature only a few customers would use. Dieter Bohn from The Verge welcomed the new camera setup. However, he considered the device lacking as a tool for video conferencing. Bohn noted that even though most iPad users now use the device primarily in landscape mode in a keyboard case, Apple continues to place the front-facing camera on the device's short edge, a positioning more compatible with use in portrait mode. He added, "in iPadOS, Apple doesn't allow apps to use the camera unless they're active in the foreground. That's nice from a peace-of-mind perspective but absolutely terrible for video conferencing." Despite receiving an update to iPadOS, the 2020 model was planned to not receive one of the leading features, Stage Manager. This caused controversy as Apple provided inconclusive reasons as to why Stage Manager could not be supported.  Due to criticism, a single-screen version of Stage Manager was added on 2018 and 2020 iPad Pros in iPadOS 16.1 Beta.
+
+
+== Timeline ==
+
+Source: Apple Newsroom Archive.
+
+
+== See also ==
+Pen computing
+Graphics tablet
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Official website
+
+# IPad Pro (5th generation)
+
+URL: https://en.wikipedia.org/wiki/IPad_Pro_(5th_generation)
+Last Updated: 2025-08-24 13:10:32
+
+The fifth-generation iPad Pro, colloquially known as the M1 iPad Pro, is a line of iPad tablet computers developed and marketed by Apple Inc. It was announced on April 20, 2021, and was available in 11-inch (28 cm) and 12.9-inch (33 cm) screen size options, which are the same as its predecessor, the iPad Pro (4th generation). Preorders began on April 30, 2021, and the product was released worldwide on May 21, 2021. It comes in two colors: Silver and Space Gray.
+Significant upgrades over the previous generation include the new Apple M1 processor, the addition of 5G support in cellular models, support for Thunderbolt 3 and USB4, and for the 12.9-inch model, a new mini LED Liquid Retina XDR display. The 11-inch model is the third generation of that size, and describes itself as such.
+
+
+== History ==
+The tech community was divided on whether Apple would use the M1 chip or a hypothetical A14X chip for its fifth generation iPad Pro. After Apple announced that it would use the M1, speculation surfaced that it might run macOS. The iPad's general availability was temporarily constrained by an ongoing chip shortage of 2020 and 2021.
+
+
+== General ==
+In spite of minor differences in weight and thickness due to hardware upgrades, the tablet is virtually identical to its predecessor. Weight of the 12.9-inch model has increased from 641 grams to 682 grams, while that of the 11-inch model has decreased from 471 grams to 466 grams. It is compatible with the second generation Apple Pencil and the Magic Keyboard; Apple designed a revised variant of Magic Keyboard for the 12.9-inch model due to its change in thickness.
+The iPad Pro uses 100% recycled aluminum and sources at least 98% recycled rare earth element supplies. It is free of any harmful substances, as defined by Apple's proprietary "Apple Regulated Substances Specification".
+
+
+== Features ==
+
+
+=== Hardware ===
+The fifth generation iPad Pro uses an Apple M1 SoC, which is the first iPad to utilize an M-series processor (found on the first Apple silicon Mac desktops and notebooks released in the late 2020) rather than an A-series processor. The M1 features an eight-core CPU in a hybrid configuration with four high-performance and four high-efficiency cores, an eight-core GPU, and a 16-core Neural Engine. The cellular model supports mmWave 5G and allows speeds up to 4 Gbit/s in ideal conditions. Internal storage options include 128 GB, 256 GB, 512 GB, 1 TB and 2 TB. The 128, 256, and 512 GB versions includes 8 GB of RAM, while the 1 and 2 TB versions include 16 GB of RAM.
+The fifth generation iPad Pro debuted support of Thunderbolt 3 and USB4 with its USB-C port. The latter can transfer data at up to 40 gigabits per second and can be used to connect external displays, such as the Pro Display XDR. The 11-inch model has a Liquid Retina display with a peak brightness at 600 nits, which is the same as the 11-inch model of the 3rd and 4th generations. The 12.9-inch model, in contrast, boasts a mini LED HDR display called the Liquid Retina XDR display built in with a 1,000,000:1 contrast ratio, full-screen brightness of 1,000 nits and a peak brightness of 1,600 nits (HDR). Both models support True Tone, ProMotion, 120 Hz variable refresh rate, and P3 wide color gamut.
+It supports a dual camera system in the back. In addition to a 12 MP wide camera with an aperture of ƒ/1.8, it has a 10 MP ultra-wide camera with a ƒ/2.4 aperture and a 125º field of view. A brighter True Tone flash is also included. It features an ultra-wide 12 MP 122º-field front-facing camera that enables Apple's "Center Stage" technology, which pinpoints the positions of the users and automatically tracks the camera view accordingly, to perspectivally center them. The Wide Cameras can record videos at up to 4K and 60 frames per second. All cameras have Smart HDR 3, the same HDR technology present in the iPhone 12 series. It includes the same sensors as their predecessors: Face ID, lidar, three-axis gyroscope, accelerometer, barometer, and an ambient light sensor.
+
+
+=== Accessories ===
+In addition to the second generation Apple Pencil, the Smart Keyboard Folio, and the Magic Keyboard, the fifth-generation iPad Pro supports third-party external accessories such as game controllers (Sony's PlayStation and Microsoft's Xbox controllers).
+Apple's fifth-generation iPad Pro can also be used with many other peripherals that transform it into a versatile computer, such as a wide range of USB-C accessories, including USB-C hubs and USB-C docks.
+
+
+== Reception ==
+The fifth generation iPad Pro received mixed responses from critics. Some reviewers said that its overboosted processor was limited by iPadOS and the lack of professional macOS applications, while others criticized the placement of its camera system. The Verge criticized the lack of multiuser support like the Mac but praised its Mini-LED screen and cameras.
+
+
+== See also ==
+Pen computing
+Graphics tablet
+Apple M1
+
+
+== References ==
+
+
+== External links ==
+Official website
+
+# IPad Pro (6th generation)
+
+URL: https://en.wikipedia.org/wiki/IPad_Pro_(6th_generation)
+Last Updated: 2025-08-24 13:10:34
+
+The sixth-generation iPad Pro is a line of iPad tablet computers developed and marketed by Apple Inc. It was announced on October 18, 2022, and was released on October 26, 2022. It is available with the same screen size options as its predecessor: 11-inch (28 cm) and 12.9-inch (33 cm).
+Upgrades over the previous generation include the Apple M2 processor, the Apple Pencil hover, which shows where the Apple Pencil will touch down on the display, support for Wi-Fi 6E, Bluetooth 5.3, and Smart HDR 4.
+
+
+== Features ==
+
+
+=== Hardware ===
+The sixth-generation iPad Pro uses an Apple M2 SoC. It features an eight-core CPU with four performance cores and four efficiency cores, a 10-core GPU, and a 16-core Neural Engine. Internal storage options include 128 GB, 256 GB, 512 GB, 1 TB and 2 TB. The 128, 256, and 512 GB versions include 8 GB of RAM, while the 1 and 2 TB versions include 16 GB of RAM.
+The 11-inch model has a Liquid Retina display with a peak brightness of 600 nits, which is the same as the 11-inch model of the 3rd, 4th, and 5th generation iPad Pro 11”. The 12.9-inch model boasts a mini LED HDR display called the Liquid Retina XDR display built in with a 1,000,000:1 contrast ratio, a brightness of 1000 nits and a peak brightness of 1600 nits (HDR), which is the same as the 12.9-inch model of the 5th generation. Both models support True Tone, ProMotion, 120 Hz variable refresh rate, and P3 wide color gamut.
+The iPad Pro uses 100% recycled aluminum and sources at least 99% or rare earth elements from recycled sources. It is free of mercury, arsenic, brominated fire retardants, PVC, and beryllium.
+
+
+=== Accessories ===
+The sixth-generation iPad Pro supports the second-generation Apple Pencil, the Magic Keyboard, the Magic Trackpad, the Magic Mouse, Smart Keyboard Folio, and USB-C accessories.
+The position and angle of Pencil can now be detected up to 12 millimetres (0.47 in) above the screen. Apple refers to this new ability as "Pencil hover", which can be used by apps for features such as previewing brush and pen strokes, and with existing hover interactions intended for mouse / touchpad input.
+
+
+== Reception ==
+The sixth-generation iPad Pro received mixed responses from critics. Some reviewers criticized that the front-facing camera is in a less desirable landscape position while the 10th-generation iPad’s is. Some reviewers praised the Apple Pencil hover, fast performance, battery life, and the display.
+
+
+== References ==
+
+
+== Notes ==
+
+
+== External links ==
+Official tech specs
+
+# IPad Pro (7th generation)
+
+URL: https://en.wikipedia.org/wiki/IPad_Pro_(7th_generation)
+Last Updated: 2025-08-24 13:10:37
+
+The seventh-generation iPad Pro, marketed as the  iPad Pro (M4), is a line of iPad tablet computers developed and marketed by Apple Inc. It was announced on May 7, 2024 during Apple's "Let Loose" event.
+The seventh-generation iPad Pro was released on May 15, 2024, and is Apple's first device to use the M4 SoC, as well as the first iPad to use an OLED-based display module. The 13-inch version is Apple's thinnest device, with both models surpassing the seventh-generation iPod Nano.
+
+
+== Features ==
+
+
+=== Hardware ===
+The seventh-generation iPad Pro models feature the Apple M4 SoC. iPad Pro colors are available in Silver and a new Space Black, which is a darker version of Space Grey, similar to the M3 MacBook Pro. The device comes with a Tandem OLED display for both the 11 and the 13-inch model. The iPad Pro base model has 256 GB of storage and provides additional storage capacity of 512 GB, 1 TB and 2 TB. Both models have full screen brightness of 1000 nits for SDR content (with 1600 nits for HDR content). The iPad Pro offers 8 GB of RAM for the 256 and 512 GB and comes with a (binned) 9 core CPU with 3 performance cores and 6 efficiency cores and a 10 core GPU. For the iPad Pro with 1 and 2 TB, the device comes with a 10 core CPU with 4 performance cores and 6 efficiency cores along with 16 GB RAM. 
+The iPad Pro 1 and 2 terabyte configurations also provides users with the option to add a nano-texture display, and to view the screen in ambient light conditions reducing glare. Unlike previous iPad Pros which comes with a 12 MP and a 10 MP ultrawide camera, this iPad Pro only comes with a 12 MP camera, LiDAR and an upgraded True Tone flash. The tablet also comes with a landscape front facing camera. The M4 SoC has options of a 9 and 10 core CPU.
+
+
+=== Connectivity ===
+The seventh generation iPad Pro includes a USB-C port for charging and connecting accessories. It supports Thunderbolt 3 and USB 4 with support for charging, and transfer speeds up to 40Gbps. The iPad Pros support the Apple Pencil Pro, the Apple Pencil USB-C and a new Apple Magic Keyboard featuring a new keyboard layout. The device also comes with WiFi 6E (802.11ax) and Bluetooth 5.3 connectivity on all models, with cellular models adding sub-6 GHz 5G support.
+
+
+== "Crush!" advertisement controversy ==
+
+The initial announcement advertisement for the iPad Pro, titled "Crush!", received criticism for portraying various artistic instruments and books being destroyed by a hydraulic press and being symbolically compressed into an iPad Pro. The advertisement was originally posted to CEO Tim Cook's X account and the company's YouTube channel. 
+In a statement to Ad Age on May 9, 2024, an apology was issued by Tor Myhren, Apple’s VP of marketing communications, stating "Creativity is in our DNA at Apple, and it’s incredibly important to us to design products that empower creatives all over the world. Our goal is to always celebrate the myriad of ways users express themselves and bring their ideas to life through iPad. We missed the mark with this video, and we’re sorry." In response to the controversy, Samsung released an ad for their Galaxy Tab S9 titled "UnCrush". Utilizing the same setting, it features a woman playing a damaged guitar from the rubble while using a Tab S9 Ultra as a music sheet, before ending with the tagline "Creativity cannot be crushed."
+
+
+== Timeline ==
+
+Source: Apple Newsroom Archive.
+
+
+== Notes ==
+
+
+== References ==

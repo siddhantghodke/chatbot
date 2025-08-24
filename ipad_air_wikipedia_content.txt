@@ -1,0 +1,331 @@
+
+
+================================================================================# IPad Air
+
+URL: https://en.wikipedia.org/wiki/IPad_Air
+Last Updated: 2025-08-24 13:10:39
+
+The iPad Air is a series of tablet computers by Apple Inc., part of the iPad lineup. It may refer to:
+
+iPad Air (1st generation), released in 2013
+iPad Air 2, released in 2014
+iPad Air (3rd generation), released in 2019
+iPad Air (4th generation), released in 2020
+iPad Air (5th generation), released in 2022
+iPad Air (6th generation), released in 2024
+iPad Air (7th generation), released in 2025
+
+# IPad Air (1st generation)
+
+URL: https://en.wikipedia.org/wiki/IPad_Air_(1st_generation)
+Last Updated: 2025-08-24 13:10:42
+
+The iPad Air (retrospectively referred to unofficially as the iPad Air 1 or original iPad Air) is a tablet developed and marketed by Apple Inc. It was announced on October 22, 2013, and was released on November 1, 2013. Part of the iPad line of tablet computers, the iPad Air features a thinner design than its predecessors, with similarities to the contemporaneous iPad Mini 2.
+The iPad Air's successor, the iPad Air 2, was announced on October 16, 2014, and released on October 22, 2014, however, the 64 GB and 128 GB variants were discontinued, and later the 16 GB and 32 GB on March 21, 2016, after the announcement of the 9.7-inch iPad Pro.
+
+
+== Features ==
+
+
+=== Operating system and software ===
+The iPad Air launched with iOS 7, introducing a major aesthetic redesign of the operating system, departing from skeuomorphic elements from iOS 6, such as green felt in Game Center, wood in Newsstand, and leather in Calendar, in favor of flat, colorful design. Jonathan Ive, the designer of iOS 7's new elements, described the update as "bringing order to complexity", highlighting features such as refined typography, new icons, translucency, layering, physics, and gyroscope-driven parallaxing as some of the major changes.
+It can act as a hotspot with some carriers, sharing its Internet connection over Wi-Fi, Bluetooth, or USB, and also access the Apple App Store, a digital application distribution platform for iOS.
+The iPad Air comes with several applications, including the Safari web browser, Mail, Photos, Video, Music, iTunes Store, App Store, Maps, Notes, Calendar, Game Center, Photo Booth, and Contacts. The iPad Air can optionally sync content and other data with a Mac or Windows computer using iTunes. Although the tablet is not designed to make phone calls over a cellular network, users can use a headset or the built-in speakers and microphone to place phone calls over Wi-Fi or cellular using a VoIP application, such as Skype. The device has a dictation application. This enables users to speak and the iPad types what they say on the screen. An Internet connection is required, as the speech is processed by Apple servers. Apple also began including its iLife (iPhoto, iMovie, Garageband) and iWork (Pages, Keynote, Numbers) apps with the device.
+iOS 8 was released in 2014, alongside iPad Mini 3 and iPhone 6. iOS 8 introduced a variety of new features, including Continuity and Health (Apple)
+iOS 9 was released in 2015. A major focus for the iPad was the introduction of three new multitasking features The Air supported two of these features, called Slide Over and Picture in Picture. Slide Over allows a user to "slide" a second app in from the side of the screen in a smaller window, and have it display information alongside the initial app. Picture in Picture allows a user to watch a video in a small, resizable, moveable window while remaining in another app. The third feature, dubbed Split View (which allows the user to run two apps simultaneously in a 50/50 view), was not supported by the device.
+iOS 10 was released in 2016. iOS 10 brought new features, such as support for the AirPods.
+iOS 11 was released in 2017. iOS 11 redesigned the control center, along with other new features.
+Apple officially confirmed in June 2018 at WWDC that the iPad Air (1st generation) would get iOS 12, making it part of the second group of devices with six major iOS updates—from its original iOS 7 all the way to iOS 12.
+In June 2019, Apple announced that it would drop support for the iPad Air with the release of iPadOS 13 in September 2019. The latest update is iOS 12.5.7, released on January 23, 2023.
+
+
+=== Design ===
+The iPad Air marked the first major design change for the iPad since the iPad 2; it has a thinner design that is 7.5 millimeters thick and has a smaller screen bezel similar to the iPad Mini. Apple reduced the overall volume for the iPad Air by using thinner components resulting in a 22% reduction in weight over the iPad 2. It retains the same 9.7-inch screen as the previous iPad model. The new front-facing camera is capable of video in 720p HD, includes face detection, and backside illumination. The rear camera received an upgrade as well; now being called the iSight camera, in addition to the same functions as the front camera it also contains a 5 MP CMOS, hybrid IR filter and a fixed ƒ/2.4 aperture.  The device was available in space gray and silver colors.
+As with previous generations, Apple continued to use recyclable materials. The enclosure of the iPad Air was milled from a solid block of aluminum making it 100% recyclable. The iPad Air is also free of the harmful materials BFRs and PVC.
+
+
+=== Hardware ===
+The iPad Air inherits most of the same hardware components from the iPhone 5S, such as its Apple A7 system-on-chip and Apple M7 motion processor. The A7 present in the iPad Air is slightly different however, in that it does not use a PoP design which stacks the RAM on top of the SoC. It also features a metal heat spreader to compensate for the slightly faster clock speed and to provide better thermal management.  The Air also includes a 5-megapixel rear-facing camera (iSight), a FaceTime HD front-facing camera, support for 802.11n, and an estimated 10 hours of battery life. It boots faster than any previous iPad model.
+As with all previous generations of iPhone and iPad hardware, there are four buttons and one switch on the iPad Air. With the device in its portrait orientation, these are: a "home" button on the face of the device under the display that returns the user to the home screen, a wake/sleep button on the top edge of the device, and two buttons on the upper right side of the device performing volume up/down functions, under which is a switch whose function varies according to device settings, functioning either to switch the device into or out of silent mode or to lock/unlock the orientation of the screen. It uses the same home button that was built in previous iPad models and therefore does not include a fingerprint scanner.
+In addition, the WiFi only version weighs 469 grams while the cellular model weighs 478 grams – over 25% lighter than their respective predecessors. The display responds to other sensors: an ambient light sensor to adjust screen brightness and a 3-axis accelerometer to sense orientation and switch between portrait and landscape modes. Unlike the iPhone and iPod Touch's built-in applications, which work in three orientations (portrait, landscape-left and landscape-right), the iPad's built-in applications support screen rotation in all four orientations, including upside-down. Consequently, the device has no intrinsic "native" orientation; only the relative position of the home button changes.
+The iPad Air was available with 16, 32, 64 or 128 GB of internal flash memory, with no expansion option. Apple also sells a "camera connection kit" with an SD card reader, but it can only be used to transfer photos and videos. As of the announcement of the iPad Pro 9.7-Inch on March 21, 2016, the iPad Air was discontinued.
+All models can connect to a wireless LAN and offer dual band Wi-Fi support. The tablet is also manufactured either with or without the capability to communicate over a cellular network. The iPad Air (and the iPad Mini 2) cellular model comes in two variants, both of which support nano-SIMs, quad-band GSM, penta-band UMTS, and dual-band CDMA EV-DO Rev. A and B. Additionally, one variant also supports LTE bands 1–5, 7, 8, 13, 17–20, 25 and 26 while the other variant supports LTE bands 1–3, 5, 7, 8, 18–20 and TD-LTE bands 38, 39 and 40. Apple's ability to handle many different bands in one device allowed it to offer, for the first time, a single iPad variant which supports all the cellular bands and technologies deployed by all the major North American wireless providers at the time of the device's introduction.
+The audio playback of the iPad Air is in stereo with two speakers located on either side of the Lightning connector.
+
+
+== Reception ==
+
+
+=== Critical reception ===
+The iPad Air received mainly positive reviews. Writing for AnandTech, Anand Lal Shimpi writes that the iPad Air "feels like a true successor to the iPad 4," praising it for its reduced weight and size. Shimpi further states that the Air "hits a balance of features, design and ergonomics that I don't think we've ever seen in the iPad." UK Editor-in-Chief of TechRadar, Patrick Goss, gave the iPad Air a positive review, giving praise to the A7 chip and camera upgrades, as well as the crisp and colorful display. He concludes by stating: "It's hard to put into words how much Apple has improved the iPad, offering a stunning level of detail and power with a build quality that's unrivalled." Christina Bonnington of Wired awarded the Air a rating of 8 out of 10, calling the performance "outstanding" and noting that high-definition video streams and gaming animations are "smooth and stutter free." She also praised the loading speeds of Safari, the web browser.
+Bonnington criticized the speakers for being slightly muddled. Apple Inc. co-founder Steve Wozniak criticized the focus on decreasing size and weight rather than increasing storage space and stated that he did not want an iPad Air as it did not fit his personal needs. Dave Smith of the International Business Times wrote that while the device was nice, it did not bring anything new to the iPad. Smith strongly criticized the lack of a fingerprint reader, and noted that the updates, such as the increased speed and the decreased size and weight, were only slight improvements.
+
+
+=== Commercial reception ===
+The launch date for the iPad Air did not see as large of a turnout as usual for Apple products; however, this was expected by analysts due to the delayed release of the iPad Mini 2. The iPad Air sold out in Hong Kong just 2 hours after becoming available online.
+
+
+== Other models ==
+
+
+=== Support ===
+
+
+=== Models ===
+
+
+== Timeline ==
+
+Source: Apple Newsroom Archive.
+
+
+== Explanatory notes ==
+
+
+== References ==
+
+
+== External links ==
+
+Official website
+
+# IPad Air 2
+
+URL: https://en.wikipedia.org/wiki/IPad_Air_2
+Last Updated: 2025-08-24 13:10:46
+
+The iPad Air 2 is the second-generation iPad Air tablet computer developed and marketed by Apple Inc. It was announced on October 16, 2014, alongside the iPad Mini 3, both of which were released on October 22, 2014. The iPad Air 2 is thinner, lighter and faster than its predecessor, the first-generation iPad Air, and features Touch ID with the height, width and screen size the same as the iPad Air.
+The first-generation iPad Pro replaced the iPad Air 2 as the flagship iPad model, with the 9.7 inch version releasing March 31, 2016, and the Air 2 being relegated as the mid-range iPad model.
+The iPad Air 2 was discontinued on March 21, 2017, as was the iPad Mini 2, alongside the introduction of the iPad (5th generation), which replaced the Air 2 as the entry-level iPad model. Its successor, the third-generation iPad Air, was released on March 18, 2019. The iPad Air 2 supported eight versions of iOS and iPadOS, from iOS 8 to iPadOS 15, but does not support iPadOS 16 due to hardware limitations.
+
+
+== History ==
+The iPad Air 2 was announced during a keynote on October 16, 2014, and was the first iPad to feature Touch ID. The theme of the keynote was "it's been way too long". The Air 2 began arriving in retail stores on October 22, 2014. The slogan for the device was Change Is in the Air. With the release of the new iPad Pro, the slogan for the device was changed to Light. Heavyweight.
+
+
+== Features ==
+
+
+=== Software ===
+
+The iPad Air 2 originally shipped with iOS 8.1 pre-installed and includes a version of Apple Pay with the in-store NFC functionality removed. The included Touch ID sensor allows the user to pay for items online without needing to enter the user's card details.
+iOS 8 comes with several built-in applications, which are Camera, Photos, Messages, FaceTime, Mail, Music, Safari, Maps, Siri, Calendar, iTunes Store, App Store, Notes, Contacts, iBooks, Home, Reminders, Clock, Videos, News, Photo Booth and Podcasts. The Apple App Store, a digital application distribution platform for iOS, allows users to browse and download applications made by various developers from the iTunes Store. Additional apps made by Apple itself are available for free download, which are iMovie, GarageBand, iTunes U, Find My iPhone, Find My Friends, Apple Store, Trailers, Remote, and the iWork apps (Pages, Keynote, and Numbers). Like all iOS devices, the iPad Air 2 can also sync content and other data with a Mac or PC using iTunes. Although the tablet is not designed to make phone calls over a cellular network, it can place and receive phone calls through an iPhone's cellular connection, using Apple's Continuity feature (supported on iOS 8 and later versions of iOS, and OS X Yosemite and later versions of macOS), or using a VoIP application, such as Skype.
+On June 8, 2015, it was announced at the WWDC that the iPad Air 2 would support all of iOS 9's new features when it is released in Q3 2015. Air 2 users with iOS 9 will be able to use Slide Over, Picture in Picture and Split View. Slide Over allows a user to "slide" a second app in from the side of the screen in a smaller window, and have it display information alongside the initial app. Picture in Picture allows a user to watch video in a small, resizable, moveable window while remaining in another app. Split View allows a user to run two apps simultaneously in a 50/50 view.
+It was revealed at WWDC 2019 that the iPad Air 2 would support iPadOS (despite some people speculating that it would not be supported by future versions). (The iPad Air 2 got iPadOS because of Split View support.) It does lack the support for some features though such as Memoji Stickers, Apple's ARKit based applications and support for Sidecar in macOS Catalina, due to it having the Apple A8X Processor. Apart from this, most of the features that were introduced in iPadOS will work with this iPad, including support for external USB drives (using the camera connection kits), the redesigned split screen and multitasking interface (with support for two apps to be open at once) and support for Haptic Touch (no haptic feedback will be felt as the iPad family doesn't have Taptic Engines). Many people have described this iPad with this new software as a budget, and watered down version of its successor the iPad Pro.
+With the release of iPadOS 13.4, the iPad Air 2 supports the new mouse and trackpad feature. It works by using the camera connection kits or via bluetooth. Bluetooth powered keyboards with a trackpad may also work depending on the manufacturer.
+At WWDC 2020, the iPad Air 2 was revealed to support iPadOS 14, even though some believed the iPad Air 2 would only receive one iPadOS version (iPadOS 13) and would not get iPadOS 14, due to its aging hardware and lack of newer features like ARKit 3. It lacks several features such as ARKit 4. It does though support the improved Safari browser and new Messages app. The iPad mini 4 was also supported by iPadOS 14.
+On June 7, 2021 at the WWDC 2021, the iPad Air 2 was revealed to support iPadOS 15, despite rumors again suggesting the iPad Air 2 might be dropped due to performance limitations and its already long support history. This makes it the first device to support seven years of software updates including both iOS and iPadOS.
+On June 6, 2022 after iPadOS 16 was announced at the WWDC 2022, it was revealed that the iPad Air 2 will not be compatible with this version of the operating system.
+
+
+=== Hardware ===
+The iPad Air 2 inherits hardware similar to both the iPhone 6 and iPhone 6 Plus with a major change in processor to the Apple A8X, the high-end 3-core variant of the Apple A8. The iPad Air 2 has 2 GB RAM (making the iPad Air 2 the first iOS device to have more than 1 GB RAM) and the PowerVR GPU has 8 cores. It also uses the Apple M8 motion co-processor which has a barometer and is the first generation of the iPad to inherit the fingerprint Touch ID sensor from the iPhone. In addition, compared to the iPad Air, it includes an improved 8-megapixel (3264×2448) rear-facing camera with 10 fps burst mode and slow motion video at 120 fps, similar to the iPhone 5S camera capabilities. The front-facing FaceTime HD camera has also been improved with a larger ƒ/2.2 aperture, which allows 81% more light in the image. Apple added a gold option to the existing silver and space gray color choices for the iPad Air 2, the previous existing colors were used on the preceding iPad Air.
+Unlike its iPad predecessors, the mute/orientation lock switch has been removed to accommodate the reduced depth. Instead, the user must use the Control Center to access these functions.
+It has a slightly smaller battery compared to the iPad Air, although Apple claims the same 10-hour battery life as before. The iPad Air 2 is available in 16, 32, 64 or 128 GB storage options with no storage expansion options. Apple has released a "camera connection kit" with an SD card reader, but it can only be used to transfer photos and videos to an iPad.
+
+
+== Reception ==
+The iPad Air 2 received positive reviews. The Verge called the Air 2 "the best tablet ever made", giving it a score of 9.3 out of 10 while noting that it offered only "iterative improvement" and that there were "missed opportunities" in its design.
+
+
+== Timeline ==
+
+Source: Apple Newsroom Archive.
+
+
+== References ==
+
+
+== External links ==
+
+iPad Air 2 – official site; archived from the original on March 21, 2017
+
+# IPad Air (3rd generation)
+
+URL: https://en.wikipedia.org/wiki/IPad_Air_(3rd_generation)
+Last Updated: 2025-08-24 13:10:48
+
+The iPad Air (3rd generation) (colloquially referred to as iPad Air 3) is a tablet computer developed and marketed by Apple Inc. It was announced and released on March 18, 2019, alongside the 5th-generation iPad Mini. 
+The device was released five years after the previous iPad Air 2, as the iPad (5th generation) was released in 2017 as the successor to the iPad (4th generation) released in 2012. The entry-level iPad lineup continued starting iPad (6th generation) released in 2018, while the third generation iPad Air was positioned as an iPad Air lineup. 
+Its case design is identical to the iPad Pro 10.5 inch; internal hardware includes an upgraded Apple A12 Bionic SoC, a 10.5-inch Retina Display, 3GB of LPDDR4X memory, and support for Bluetooth 5.0 and Apple Pencil (first generation).
+This iPad, the iPad (9th generation) and the iPad Mini (5th generation) were the last iPad models to use a Lightning port and a home button. The iPad Air (3rd generation) was discontinued on September 15, 2020, following the introduction of the iPad Air (4th generation).
+
+
+== Features ==
+
+
+=== Hardware ===
+Available in three color options (including Silver, Space Gray and Gold), the gold color option of the third-generation iPad Air is now updated introduced with the iPhone 8.
+It features an upgraded, 7MP front camera (used first in the iPhone 7 and up to the iPhone XS), compared to the 1.2MP camera found in the previous generation. However, it retains the same, older 8MP rear camera which cannot record in 4K video as such. 
+It has a 2.49GHz six-core processor, the Apple A12 Bionic chip, which has a 66% faster clock speed than the 1.5GHz triple-core Apple A8X in the iPad Air 2. 
+It also has a True Tone display, which allows the LCD to adapt to ambient lighting to change its color and intensity in different environments, and a P3 wide color gamut to allow the LCD to show more vibrant colors.
+This iPad Air retains the Lightning port, keeps the headphone jack, and has a slightly larger battery of 30.2 watt-hours (up from 27.6 W·h), rated by Apple to provide the same "10 hours" of active use. The third-generation iPad Air is the final model to include a home button, Lightning port and headphone jack; the fourth-generation iPad Air does not. It is also the final iPad Air model available with white bezels on the silver and gold models. The iPad Air (4th generation) is only available with black bezels on all color iPads.
+
+
+=== Software ===
+The third-generation iPad Air first shipped with iOS 12.2. It supported iPadOS 13, iPadOS 14, iPadOS 15, iPadOS 16 and iPadOS 17. It currently supports iPadOS 18 and will support the upcoming iPadOS 26.
+
+
+== Reception ==
+The third-generation iPad Air received positive reviews. It was praised for its laminated screen, Smart Keyboard case capability, as well as a speedy SoC. However, it only supports the first-generation Apple Pencil, uses the 2017's 10.5-inch iPad Pro design and only has two speakers compared to four on the Pro models. In addition, while the current Pro models provide some support for HDR, the Air (3rd generation) does not.
+
+
+== Hardware issues ==
+Some devices of this model, which were manufactured between March 2019 and October 2019, have issues where the screen may flicker or flash before permanently dying. As a result of this Apple released a recall program which allows users to send in their device for replacement up to two years from the date of purchase.
+
+
+== Timeline ==
+
+Source: Apple Newsroom Archive.
+Apple products use the convention 1 GB = one gigabyte (one billion bytes), meaning that 16, 32, 64 and 128 GB storage devices contain a total of 14.9, 29.8, 59.6 and 119.2 GiB, respectively. Formatting and apps take up some of this total storage, leaving 11.5, 27.5, 56.5 and 114 GiB available to the user.
+
+
+== References ==
+
+# IPad Air (4th generation)
+
+URL: https://en.wikipedia.org/wiki/IPad_Air_(4th_generation)
+Last Updated: 2025-08-24 13:10:51
+
+The iPad Air (4th generation), informally referred to as iPad Air 4, is a tablet computer developed and marketed by Apple Inc. It was announced by Apple on September 15, 2020. Pre-orders began on October 16, 2020, and shipping began a week later on October 23, 2020, alongside the iPhone 12 and iPhone 12 Pro. The device closely resembles the design of the 11-inch iPad Pro (3rd generation) and has several features that were previously exclusive to the iPad Pro line, such as support for Magic Keyboard and the second-generation Apple Pencil. It is available in five colors: Space Gray, Silver, Rose Gold, Green, and Sky Blue.
+The 4th generation iPad Air was discontinued on March 8, 2022, following the announcement of its successor, the iPad Air (5th generation).
+
+
+== Features ==
+
+
+=== Hardware ===
+The Apple A14 Bionic SoC has 11.9 billion transistors inside, allowing for higher efficiency in terms of both power and performance. The chip has a 6-core CPU that is 40 percent faster than the A12, a 4-core GPU that is 30 percent faster, and Apple's 16-core Neural Engine, which is twice as fast and features improved machine learning. The Neural Engine can process more than 11 trillion operations per second.
+It has a wider 60 Hz 10.9-inch 2360 by 1640 Liquid Retina Display display with 3.8 million pixels. The display is laminated and has an anti-reflective coating, as well as featuring wide color and True Tone.
+The Home Button in the previous generation has been removed, as has the headphone jack; the Touch ID sensor has been relocated to the Sleep/Wake button attached on the top right edge of the device. Landscape stereo audio effect is also added to the system's audio recording system.
+It features a rear 12MP camera capable of 4K video recording at up to 60fps as well as a 7MP FaceTime camera capable of 1080p 60fps video.
+The hardware specifications of the iPad Air (4th generation) are comparable to those of the iPad (10th generation). However, the iPad Air lacks 5G cellular data and Center Stage front camera support, whereas the iPad (10th generation) lacks a P3 Wide Color display, Apple Pencil (2nd generation) support, and Smart Keyboard Folio support.
+
+
+=== Connectivity ===
+With the release of its fourth-generation iPad Air, Apple continued the use of the USB-C port, as was seen in the third-generation iPad Pro. The port is used for charging as well as connecting external devices and accessories. It is capable of transferring up to 5 Gbit/s (625 MB/s), allowing for fast connections to cameras and external storage, as well as support for monitors with up to 4K resolution. For wireless connection, the device comes with Bluetooth 5.0 and WiFi 6 (802.11ax).
+It is compatible with the second-generation Apple Pencil, Magic Keyboard for iPad, and Smart Keyboard Folio.
+
+
+== Reception ==
+The fourth-generation iPad Air sparked mixed reactions, particularly regarding its price. Many consumers and reviewers criticized it for being more expensive than its predecessor, raising questions about the value it brought over previous models. Despite this, the iPad Air 4 has largely received positive reviews for its overall performance and design.
+Henry T. Casey of Tom's Guide lauded the iPad Air 4, calling it "the best tablet for most people" and "one of the best iPads ever." His review emphasized its versatility, sleek design, and performance, qualities that positioned it as an ideal choice for everyday users and professionals alike. Similarly, James Peckham from TechRadar hailed the tablet as a "phenomenally well-made" device, praising its build quality and functionality.
+PCMag included it in its “Best Tech Products of the Year” list for 2020, a testament to its impact in the tech world during a particularly challenging year due to the COVID-19 pandemic. The publication even awarded it their Editors' Choice award for high-end tablets.
+Apple's decision to retain Touch ID, integrated into the power button, instead of using Face ID was especially appreciated when mask-wearing became commonplace, as Face ID struggled to function correctly when a user's face was covered. The inclusion of Touch ID allowed for convenient and secure authentication, giving Apple praise for adapting to the pandemic-era needs of its users.
+
+
+== Timeline ==
+
+Source: Apple Newsroom Archive.
+
+
+== References ==
+
+# IPad Air (5th generation)
+
+URL: https://en.wikipedia.org/wiki/IPad_Air_(5th_generation)
+Last Updated: 2025-08-24 13:10:53
+
+The iPad Air (5th generation), colloquially known as the iPad Air 5 or iPad Air M1, is a tablet computer developed and marketed by Apple Inc. It was announced by Apple on March 8, 2022. Pre-orders began on March 11, 2022, and shipping began on March 18, 2022. It succeeded the fourth-generation iPad Air and is available in five colors: Space Gray, Starlight, Pink, Purple, and Blue.
+The iPad Air (5th generation) was discontinued on  May 7, 2024, following the announcement of its successor, the sixth-generation iPad Air.
+
+
+== Features ==
+
+
+=== Hardware ===
+The fifth-generation iPad Air uses the Apple M1 SoC; the same chip used in the iPad Pro (5th generation). The chip has an 8-core CPU, an 8-core GPU and a 16-core Neural Engine which can process more than 11 trillion operations per second. Apple claims the CPU is up to 60 percent faster and the GPU has 2× faster graphics compared to its predecessor. It has 64 GB or 256 GB of internal storage, and 8 GB of RAM.
+It has a 10.9-inch 2360-by-1640 Liquid Retina Display display with 3.8 million pixels. The display is laminated and has an anti-reflective coating, as well as featuring wide color, True Tone and 500 nits of brightness.
+The fifth-generation iPad Air features a 12 MP rear camera and an ultra-wide 12 MP front camera with Center Stage, which automatically tracks users to keep them in frame. Both cameras have Smart HDR 3.
+It has Touch ID integrated into the Sleep/Wake button on the top right edge of the device, and stereo speakers with dual-channel sound in landscape mode.
+
+
+=== Connectivity ===
+The fifth-generation iPad Air includes a USB-C port that is used for charging as well as connecting external devices and accessories. The port is capable of transferring up to 10 Gbit/s (ten billion bits per second, 1.25 GB/s or 1.25 billion bytes per second), allowing for fast connections to cameras and external storage, as well as support for monitors with up to 4K resolution. For wireless connection, the device comes with Bluetooth 5.0 and Wi-Fi 6 (802.11ax) support. Cellular models support sub-6 GHz 5G with peak speeds of up to 3.5 Gbit/s in ideal conditions.
+
+
+== Timeline ==
+
+Source: Apple Newsroom Archive.
+
+
+== References ==
+
+# IPad Air (6th generation)
+
+URL: https://en.wikipedia.org/wiki/IPad_Air_(6th_generation)
+Last Updated: 2025-08-24 13:10:56
+
+The iPad Air (6th generation) is a tablet computer developed and marketed by Apple Inc. It was announced by Apple on May 7, 2024, with pre-orders starting the same day, and was released on May 15, 2024. It succeeds the iPad Air (5th generation) and is available in four colors: Blue, Purple, Space Gray, and Starlight. The iPad Air (6th generation) is the first iPad Air to include a 13-inch model alongside the existing 11 inch model.
+
+
+== Features ==
+
+
+=== Hardware ===
+The sixth-generation iPad Air models use the Apple M2 SoC, with 8 GB of RAM and 128 GB of onboard flash storage, but storage can be upgraded to 256 GB, 512 GB, and 1 TB, respectively, for an additional fee. The M2 chip has 8 CPU cores and 9 GPU cores.
+It also uses a Liquid Retina Display with 500 nits of brightness and a P3 color space. The 11-inch model has a 2360-by-1640 display, whereas the 13 inch model has a 2732-by-2048 display with 600 nits of brightness. Both models also support Apple Pencil Pro and Apple Pencil (USB-C). In addition, it also has a 12 MP front and back camera with Smart HDR 4 and up to 63 MP panorama photos. Like its predecessor, the sixth generation iPad Air also has Touch ID integrated into its sleep/wake button.
+
+
+=== Connectivity ===
+The sixth generation iPad Air includes a USB-C port for charging and connecting accessories. The port is capable of transferring data at a speed of 10 Gbit/s (approximately ten billion bits per second, 1.25 GB/s, or approximately 1.25 billion bytes per second), with DisplayPort capabilities, allowing the device to connect to external monitors. The device also comes with WiFi 6E (802.11ax) and Bluetooth 5.3 connectivity on all models, with cellular models adding sub-6 GHz 5G support.
+Like its predecessors, it is compatible with the Magic Keyboard for iPad.
+
+
+=== Cameras ===
+Front: 12 MP, ƒ/2.0 aperture, burst mode, timer mode, exposure control, face detection, Smart HDR 4, wide-color capture, auto image stabilization, Retina flash, 1080p HD video recording, center stage
+Rear: 12 MP, ƒ/1.8 aperture, five-element lens, burst mode, timer mode, exposure control, noise reduction, face detection, Hybrid IR filter, Live Photos with stabilization, Autofocus with Focus Pixels, face detection, Smart HDR 4, panorama, wide-color capture, auto image stabilization, 2160p 4K 60fps video recording, video stabilization, slo-mo, time-lapse
+
+
+== Timeline ==
+
+Source: Apple Newsroom Archive.
+
+
+== Notes ==
+
+
+== References ==
+
+# IPad Air (7th generation)
+
+URL: https://en.wikipedia.org/wiki/IPad_Air_(7th_generation)
+Last Updated: 2025-08-24 13:10:58
+
+The iPad Air (7th generation) is a tablet computer developed and marketed by Apple Inc. It was announced on March 4, 2025, and released on March 12, 2025. The device succeeds the iPad Air (6th generation) and introduces several hardware, performance, and accessory improvements while maintaining the same starting price as its predecessor.
+
+
+== Features ==
+
+
+=== Hardware and Chip ===
+The seventh-generation iPad Air is powered by Apple’s M3 chip, marking the first time that the company’s advanced graphics architecture has appeared in the Air lineup. The M3 system-on-chip features an 8-core CPU and a 9-core GPU, delivering significant performance gains over previous models. Compared to the M1, the M3 offers up to 35 percent faster multithreaded CPU performance and up to 40 percent faster graphics. Additionally, the M3 brings hardware-accelerated ray tracing, mesh shading, and dynamic caching to the iPad Air for the first time. This results in smoother, more realistic lighting, shadows, and reflections for demanding applications such as 3D rendering and high-end gaming. The M3’s faster Neural Engine is up to 60 percent faster than that of the M1, enabling improved AI and machine learning tasks within iPadOS.
+The iPad Air (7th generation) continues to be offered in two sizes: an 11-inch model for portability and a larger 13-inch model that provides additional screen real estate for productivity and creative tasks. Both sizes feature a Liquid Retina display with P3 wide color, True Tone technology, and brightness levels ranging from 500 to 600 nits. Storage options include 128 GB, 256 GB, 512 GB, and 1 TB, with all configurations equipped with 8 GB of unified memory.
+
+
+=== Operating System ===
+The iPad Air (M3) ships with iPadOS 18, which brings a wide range of new features. It is designed to take advantage of Apple Intelligence. This includes new capabilities like Image Wand in the Notes app, the Clean Up tool in Photos, Genmoji for custom emoji creation, and more advanced Siri interactions. Siri now supports typed input, improved contextual awareness between requests, and built-in ChatGPT integration with privacy protections. Most Apple Intelligence features run directly on the device, but larger language models can also use Private Cloud Compute for additional processing without storing user data.
+
+
+=== Connectivity ===
+The iPad Air (M3) supports Wi‑Fi 6E for high-speed wireless networking and Bluetooth 5.3 for modern accessory pairing. Cellular models use the Qualcomm SDX70M modem, which is the same 5G modem found in the previous iPad Air (M2), the iPhone 15, and the iPad Pro (M4). This modem supports sub‑6 GHz 5G networks, providing fast mobile data performance in supported regions.
+
+
+=== Cameras ===
+The device retains a 12-megapixel front-facing camera with Center Stage for video calls, and a 12-megapixel wide rear camera capable of capturing 4K video and high-resolution photos with Smart HDR 4.
+
+
+=== Accessories ===
+Alongside the new iPad Air, Apple introduced a redesigned Magic Keyboard branded specifically for the M3 model. Officially called the “Magic Keyboard for iPad Air (M3),” the accessory retains the familiar floating cantilever design but offers several refinements. The updated keyboard adds an improved viewing angle, a larger built-in trackpad for greater precision, and a new 14-key function row for quick access to controls like screen brightness and volume. To lower costs, Apple removed the backlit keys found on the previous generation and discontinued the black color option, with the new Magic Keyboard now only available in white. Despite these changes, the new keyboard is backwards compatible with all iPad Air models starting from the 4th generation. The new keyboard is priced at $269 for the 11-inch version and $319 for the 13-inch version, making it less expensive than the outgoing Magic Keyboard for iPad Air (M2), which was priced at $299 and $349, respectively.
+The iPad Air (M3) remains compatible with the Apple Pencil Pro and the Apple Pencil (USB-C).
+
+
+== Timeline ==
+
+Source: Apple Newsroom Archive.
+
+
+== Notes ==
+
+
+== References ==
