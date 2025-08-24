@@ -80,16 +80,36 @@ def initialize_chatbot():
                 st.error("❌ Google API key not found! Please set GOOGLE_API_KEY in your .env file.")
                 return False
             
-            # Check for content file
-            wikipedia_file = "ipad_wikipedia_content.txt"
-            if not os.path.exists(wikipedia_file):
-                st.error(f"❌ Content file '{wikipedia_file}' not found! Please run the Wikipedia extractor first.")
+            # Check for content files
+            wikipedia_files = [
+                "ipad_wikipedia_content.txt",
+                "ipad_air_wikipedia_content.txt", 
+                "ipad_general_wikipedia_content.txt",
+                "ipad_mini_wikipedia_content.txt",
+                "ipad_pro_wikipedia_content.txt"
+            ]
+            
+            # Check if at least one file exists
+            existing_files = [f for f in wikipedia_files if os.path.exists(f)]
+            if not existing_files:
+                st.error(f"❌ No content files found! Please run the Wikipedia extractor first.")
                 return False
             
-            # Load content
-            with st.spinner("📖 Loading content..."):
-                loader = TextLoader(wikipedia_file, encoding='utf-8') 
-                data = loader.load()
+            # Load content from all available files
+            all_data = []
+            with st.spinner("📖 Loading content from all files..."):
+                for file in existing_files:
+                    try:
+                        loader = TextLoader(file, encoding='utf-8')
+                        data = loader.load()
+                        all_data.extend(data)
+                        st.success(f"✅ Loaded {file}")
+                    except Exception as e:
+                        st.warning(f"⚠️ Could not load {file}: {str(e)}")
+            
+            if not all_data:
+                st.error("❌ No content could be loaded from any files!")
+                return False
             
             # Split into chunks
             with st.spinner("✂️ Processing content..."):
@@ -99,7 +119,7 @@ def initialize_chatbot():
                     length_function=len,
                     separators=["\n\n", "\n", ". ", " ", ""]
                 )
-                docs = text_splitter.split_documents(data)
+                docs = text_splitter.split_documents(all_data)
             
             # Create vector store with error handling
             with st.spinner("🧠 Creating knowledge base..."):
@@ -173,7 +193,7 @@ def initialize_chatbot():
             st.session_state.rag_chain = rag_chain
             st.session_state.initialized = True
             
-            st.success("✅ Chatbot initialized successfully!")
+            st.success(f"✅ Chatbot initialized successfully with {len(existing_files)} content files!")
             return True
             
     except Exception as e:
